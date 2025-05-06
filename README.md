@@ -1,0 +1,2 @@
+# licenseplatedetection
+using easyocr
