@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 License Plate Recognition Web App
 
 This is a simple web application built using **Flask**, **OpenCV**, and **EasyOCR** to detect and recognize license plate numbers from images.
@@ -11,3 +12,7 @@ This is a simple web application built using **Flask**, **OpenCV**, and **EasyOC
 
  Project Structure
 
+=======
+# licenseplatedetection
+using easyocr
+>>>>>>> 6734c41491e85d8cd29a50212b97df5949222bae
